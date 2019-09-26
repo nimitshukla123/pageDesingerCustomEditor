@@ -1,6 +1,6 @@
 {
   "name": "Textbox",
-  "description": "This is the Textbox Component, can be used as Help or FAQ pages",
+  "description": "This is the Textbox Component, can be used as Help or FAQ pages with summernote",
   "group": "commerce_assets",
   "attribute_definition_groups": [
     {
@@ -11,7 +11,7 @@
         {
           "id": "richText",
           "name": "content",
-          "description": "This is the rich text content area",
+          "description": "This is the rich text content area with summernote editor",
           "type": "custom",
           "required": true,
           "editor_definition": {
