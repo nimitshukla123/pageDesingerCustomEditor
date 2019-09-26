@@ -11,7 +11,7 @@
         {
           "id": "richText",
           "name": "content",
-          "description": "This is the rich text content area",
+          "description": "This is the rich text content area with summernote editor",
           "type": "custom",
           "required": true,
           "editor_definition": {
